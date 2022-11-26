@@ -26,3 +26,5 @@ wget link
 ```
 
 the changes are in vs code
+
+the changes are done in git gui
