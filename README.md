@@ -25,6 +25,6 @@ To download the dataset
 wget link
 ```
 
-the changes are in vs code
+changed all the changes in vscode
+modified
 
-the changes are done in git gui
